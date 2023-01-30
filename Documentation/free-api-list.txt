@@ -1,0 +1,68 @@
+OpenWeatherMap API - Access current weather data and forecasts
+NewsAPI - Retrieve news articles from various sources
+Chuck Norris API - Retrieve Chuck Norris jokes
+Cat Facts API - Retrieve fun facts about cats
+Random Dog API - Retrieve images of random dogs
+SpaceX API - Retrieve information about SpaceX launches and missions
+The Cat API - Retrieve images of cats
+The Dog API - Retrieve images of dogs
+JokeAPI - Retrieve jokes of different categories
+Random User API - Retrieve information about random users
+Pokemon API - Retrieve information about Pokemon
+NASA API - Retrieve information about NASA's missions and projects
+Harry Potter API - Retrieve information about the Harry Potter series
+Giphy API - Retrieve gifs based on search keywords
+Open Trivia Database API - Retrieve trivia questions and answers
+Currency Exchange API - Retrieve exchange rates for various currencies
+Random Quotes API - Retrieve random quotes
+Random Facts API - Retrieve random facts
+Weather API - Retrieve current weather conditions and forecasts
+Unsplash API - Retrieve images from the Unsplash library
+Bored API - Retrieve activities to do when feeling bored
+JSONPlaceholder API - Retrieve placeholder JSON data for testing
+Star Wars API - Retrieve information about the Star Wars universe
+Numbers API - Retrieve information about numbers
+Recipes API - Retrieve recipes based on ingredients
+Music API - Retrieve information about music and musicians
+TV API - Retrieve information about TV shows and episodes
+Film API - Retrieve information about movies
+Trivia API - Retrieve trivia questions and answers
+Comic API - Retrieve information about comics and characters
+Word API - Retrieve information about words and their meanings
+Geolocation API - Retrieve information about geographical locations
+Book API - Retrieve information about books and authors
+Job API - Retrieve job listings and job-related information
+Language Translation API - Translate text between different languages
+Horoscope API - Retrieve horoscope predictions
+Time Zone API - Retrieve information about time zones
+Emoji API - Retrieve information about emojis
+Color API - Retrieve information about colors
+Random Gif API - Retrieve random gifs
+
+
+The IUCN Red List of Threatened Species API (https://apiv3.iucnredlist.org/)
+The Animal Planet API (https://www.animalplanet.com/api)
+The Petfinder API (https://www.petfinder.com/developers/v2/docs/)
+The Open Wildlife API (https://openwildlife.org/)
+The FishBase API (https://www.fishbase.se/webservice/)
+The EOL (Encyclopedia of Life) API (https://eol.org/info/api)
+The BioDBnet API (https://biodbnet-abcc.ncifcrf.gov/)
+The GBIF (Global Biodiversity Information Facility) API (https://www.gbif.org/developer/summary)
+The National Park Service API (https://www.nps.gov/subjects/developer/api-documentation.htm)
+The OpenAQ API (https://openaq.org/)
+The World Wildlife Fund (WWF) API (https://www.worldwildlife.org/pages/developer-resources)
+The Wild Me API (https://www.wildme.org/api/)
+The FishWatch API (https://www.fishwatch.gov/api)
+The MarineTraffic API (https://www.marinetraffic.com/en/ais-api-services/documentation/)
+The Ocean Health Index API (https://ohi-science.org/data-and-models/api/)
+The Sea Around Us API (http://data.seaaroundus.org/api/)
+The SharkNet API (https://sharknet.pflegerinstitute.org/)
+The Whales Report API (https://whalesreport.com/developers)
+The Aquatic Life API (https://www.aquaticlife.com/)
+The Wildlife Data API (https://wildlife.pflegerinstitute.org/)
+The BioDBnet API (https://biodbnet-abcc.ncifcrf.gov/)
+The GBIF (Global Biodiversity Information Facility) API (https://www.gbif.org/developer/summary)
+The Open Wildlife API (https://openwildlife.org/)
+The World Wildlife Fund (WWF) API (https://www.worldwildlife.org/pages/developer-resources)
+The Wild Me API (https://www.wildme.org/api/)
+The IUCN Red List of Threatened Species API (https://apiv3.iucnredlist.org/)
